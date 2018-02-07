@@ -21,6 +21,7 @@ public class App1
 		log.info("Returning "+a+"/"+b+"="+result);
 		return result;
 	}
+<<<<<<< HEAD
 	public static int multiplicación(int a, int b){
 		
       int result= a*b;
@@ -28,4 +29,6 @@ public class App1
       return result;
    }
    
+=======
+>>>>>>> next
 }
